@@ -1,0 +1,73 @@
+{
+    "mailgun_failed_load_api_key": "Failed to load MailGun API key.",
+    "mailgun_failed_load_domain": "Failed to load MailGun domain.",
+    "mailgun_failed_load_email": "Failed to load MailGun email.",
+    "mailgun_error_send_email": "Error in sending email",
+    
+    "account_access_denied": "You cannot access this account",
+    "account_not_exist": "This account does not exist",
+
+    "user_name_exist": "This name '{}' already exists",
+    "user_email_exist": "This email '{}' already exists",
+    "user_cacnumber_exist": "This CAC Number '{}' already exists",
+    "user Registered": "You have successfully registered your account, check your email to confirm your account",
+    "user_error_creating": "Internal Server Error. Failed to create account",
+    "user_not_confirmed": "This user is not confirmed",
+    "user_invalid_credentials": "Email or password does not match",
+    "user_logged_out": "User successfully logged out",
+    "user_not_found": "This account does not exist",
+    "user_bad_parameter": "Bad argument passed",
+    "user_deleted": "Account have been successfully deleted",
+
+    "password_not_secure": "Enter secure password: must have at least one Uppercase letter, one lowercase letter, one number and special characters",
+
+    "error_saving": "Error updating details",
+
+    "bank_not_found": "Bank details does not exist",
+    "bank_created": "Bank details added successfully",
+    "bank_creation_error": "Error adding bank details",
+    "bank_bad_parameter": "bad argument passed",
+    "bank_update_error": "Error updating bank details",
+    "bank_deleted": "Bank details deleted successfully",
+    "bank_delete_error": "Error deleting bank details",
+
+    "category_created": "Category Added Successfully",
+    "category_creation_error": "Error creating category",
+    "category_already_exist": "Category already exist",
+    "category_not_found": "Category not found",
+    "category_deleted": "Category deleted successfully",
+    "category_deletion_error": "Error deleting category",
+
+    "item_already_exist": "This item name already exist",
+    "item_created": "Item created successfully",
+    "item_creation_error": "Erorr creating item",
+    "item_not_found": "Item was not found",
+    "item_updated": "Item updated successfully",
+    "item_update_error": "Error updating item",
+    "item_bad_parameter": "bad argument passed",
+    "item_deleted": "Item deleted successfully",
+    "item_delete_error": "Error deleting item",
+    "item_image_count_error": "Item image not saved to database",
+    "item_image_uploaded": "Image uploaded successfully",
+    "item_image_save_error": "Image failed to upload",
+    "item_image_illegal_extension": "Image extension not allowed",
+    "item_image_illegal_filename": "{} has an illegal filename",
+    "item_image_deleted": "Image deleted successfully",
+    "item_image_not_found": "Image not found",
+    "item_image_delete_failed": "Image failed to delete successfully",
+
+    "order_item_not_found": "Item does not exit",
+    "order_created": "Order created successfully",
+    "order_creation_error": "Error creating order",
+    "order_not_found": "Order was not found",
+    "order_update_failed": "Error updating order",
+    "order_delete_error": "Error deleting order",
+
+    "payment_success": "Payment made successfully",
+    "payment_creation_error": "Error while making payment",
+    "payment_failed": "Payment failed",
+
+    "access_forbidden": "Access not allowed",
+    "link_expired": "This link has expired"
+
+}
